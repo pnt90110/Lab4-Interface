@@ -1,6 +1,5 @@
-package test.grader.counter;
+package entity.counter;
 
-import entity.counter.Counter;
 import logic.Player;
 import entity.container.Dish; 
 import entity.base.Item;
